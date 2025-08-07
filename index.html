@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ViveSano</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        <!-- Este es el conjunto que encierra el menu 
+        <header class="header-mobile">
+            <h1 class="logo">ViveSano</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>-->
+        <aside>
+            <!--<button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>-->
+            <!-- Este es el nombre del negocio esta hasta arriba del menu -->
+            <header>
+                <h1 class="logo">ViveSano</h1>
+            </header>
+            <!-- Estos son los botones del menu, para navegar por la pagina -->
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Menu completo</button>
+                    </li>
+                    <li>
+                        <button id="desayunos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Desayunos</button>
+                    </li>
+                    <li>
+                        <button id="almuerzos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Almuerzos</button>
+                    </li>
+                    <li>
+                        <button id="cenas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Cenas</button>
+                    </li>
+                    <li>
+                        <a href="./carrito.html" class="boton-menu boton-carrito "><i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span></a>
+                    </li>
+                </ul>
+            </nav>
+            <!-- este es el footer de la pagina -->
+            <footer>
+                <p class="texto-footer">© 2025 ViveSano</p>
+            </footer>
+        </aside>
+
+        <!-- Este es el contenido de la pagina seleccionadae en el menu -->
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Menu completo</h2>
+            <!-- Este es el contenedor principal de los productos -->
+            <div id="contenedor-productos" class="contenedor-productos">
+                                  
+            </div>
+        </main>
+    </div>
+    
+    <script src="./js/main.js"></script>
+    
+</body>
+</html>

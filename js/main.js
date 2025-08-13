@@ -3,7 +3,7 @@ const productos = [
         {
         "id": "desayuno-01",
         "titulo": "Cereal con arandanos",
-        "imagen": "../img/desayunos/01.jpg",
+        "imagen": "./img/desayunos/01.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -13,7 +13,7 @@ const productos = [
         {
         "id": "",
         "titulo": "Sandwich con malteada",
-        "imagen": "../img/desayunos/02.jpg",
+        "imagen": "./img/desayunos/02.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -23,7 +23,7 @@ const productos = [
         {
         "id": "desayuno-03",
         "titulo": "Huevos cosidos con frutas",
-        "imagen": "../img/desayunos/03.jpg",
+        "imagen": "./img/desayunos/03.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -33,7 +33,7 @@ const productos = [
         {
         "id": "desayuno-04",
         "titulo": "Tostadas de aguacate",
-        "imagen": "../img/desayunos/04.jpg",
+        "imagen": "./img/desayunos/04.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -43,7 +43,7 @@ const productos = [
         {
         "id": "desayuno-05",
         "titulo": "Ensalada de frutas",
-        "imagen": "../img/desayunos/05.jpg",
+        "imagen": "./img/desayunos/05.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -53,7 +53,7 @@ const productos = [
         {
         "id": "desayuno-06",
         "titulo": "Tortillas de trigo",
-        "imagen": "../img/desayunos/06.jpg",
+        "imagen": "./img/desayunos/06.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -63,7 +63,7 @@ const productos = [
         {
         "id": "desayuno-07",
         "titulo": "Parfait de yogur",
-        "imagen": "../img/desayunos/07.jpg",
+        "imagen": "./img/desayunos/07.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -73,7 +73,7 @@ const productos = [
         {
         "id": "desayuno-08",
         "titulo": "Smoothie bowl",
-        "imagen": "../img/desayunos/08.jpg",
+        "imagen": "./img/desayunos/08.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
@@ -84,7 +84,7 @@ const productos = [
         {
         "id": "almuerzo-01",
         "titulo": "Fideos de arroz con rollitos de primavera",
-        "imagen": "../img/almuerzos/01.jpg",
+        "imagen": "./img/almuerzos/01.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -94,7 +94,7 @@ const productos = [
         {
         "id": "almuerzo-02",
         "titulo": "Ensalada Cesar con pollo",
-        "imagen": "../img/almuerzos/02.jpg",
+        "imagen": "./img/almuerzos/02.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -104,7 +104,7 @@ const productos = [
         {
         "id": "almuerzo-03",
         "titulo": "Lomo de cerdo",
-        "imagen": "../img/almuerzos/03.jpg",
+        "imagen": "./img/almuerzos/03.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -114,7 +114,7 @@ const productos = [
         {
         "id": "almuerzo-04",
         "titulo": "Poke blowl",
-        "imagen": "../img/almuerzos/04.jpg",
+        "imagen": "./img/almuerzos/04.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -124,7 +124,7 @@ const productos = [
         {
         "id": "almuerzo-05",
         "titulo": "Col curtida",
-        "imagen": "../img/almuerzos/05.jpg",
+        "imagen": "./img/almuerzos/05.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -134,7 +134,7 @@ const productos = [
         {
         "id": "almuerzo-06",
         "titulo": "Plato de sopa",
-        "imagen": "../img/almuerzos/06.jpg",
+        "imagen": "./img/almuerzos/06.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -144,7 +144,7 @@ const productos = [
         {
         "id": "almuerzo-07",
         "titulo": "Sopa vietnamita",
-        "imagen": "../img/almuerzos/07.jpg",
+        "imagen": "./img/almuerzos/07.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -154,7 +154,7 @@ const productos = [
         {
         "id": "almuerzo-08",
         "titulo": "poke bowl",
-        "imagen": "../img/almuerzos/08.jpg",
+        "imagen": "./img/almuerzos/08.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
@@ -165,7 +165,7 @@ const productos = [
         {
         "id": "cena-01",
         "titulo": "Sopa de calabaza",
-        "imagen": "../img/cenas/01.jpg",
+        "imagen": "./img/cenas/01.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -175,7 +175,7 @@ const productos = [
         {
         "id": "cena-02",
         "titulo": "Snacks con huevo",
-        "imagen": "../img/cenas/02.jpg",
+        "imagen": "./img/cenas/02.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -185,7 +185,7 @@ const productos = [
         {
         "id": "cena-03",
         "titulo": "Sopa de tomate",
-        "imagen": "../img/cenas/03.jpg",
+        "imagen": "./img/cenas/03.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -195,7 +195,7 @@ const productos = [
         {
         "id": "cena-04",
         "titulo": "Esparragos",
-        "imagen": "../img/cenas/04.jpg",
+        "imagen": "./img/cenas/04.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -205,7 +205,7 @@ const productos = [
         {
         "id": "cena-05",
         "titulo": "Sushi",
-        "imagen": "../img/cenas/05.jpg",
+        "imagen": "./img/cenas/05.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -215,7 +215,7 @@ const productos = [
         {
         "id": "cena-06",
         "titulo": "espagueti",
-        "imagen": "../img/cenas/06.jpg",
+        "imagen": "./img/cenas/06.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -225,7 +225,7 @@ const productos = [
         {
         "id": "cena-07",
         "titulo": "Pad thai",
-        "imagen": "../img/cenas/07.jpg",
+        "imagen": "./img/cenas/07.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -235,7 +235,7 @@ const productos = [
         {
         "id": "cena-08",
         "titulo": "Ravioles",
-        "imagen": "../img/cenas/08.jpg",
+        "imagen": "./img/cenas/08.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
@@ -347,3 +347,4 @@ function actualizarNumerito(){
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+

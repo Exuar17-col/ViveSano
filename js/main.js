@@ -2,245 +2,245 @@ const productos = [
     //Desayunos
         {
         "id": "desayuno-01",
-        "titulo": "Desayuno 01",
-        "imagen": "./img/desayunos/01.jpg",
+        "titulo": "Cereal con arandanos",
+        "imagen": "../img/desayunos/01.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 6000
         },
         {
-        "id": "desayuno-02",
-        "titulo": "Desayuno 02",
-        "imagen": "./img/desayunos/02.jpg",
+        "id": "",
+        "titulo": "Sandwich con malteada",
+        "imagen": "../img/desayunos/02.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 12000
         },
         {
         "id": "desayuno-03",
-        "titulo": "Desayuno 03",
-        "imagen": "./img/desayunos/03.jpg",
+        "titulo": "Huevos cosidos con frutas",
+        "imagen": "../img/desayunos/03.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 12000
         },
         {
         "id": "desayuno-04",
-        "titulo": "Desayuno 04",
-        "imagen": "./img/desayunos/04.jpg",
+        "titulo": "Tostadas de aguacate",
+        "imagen": "../img/desayunos/04.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 13000
         },
         {
         "id": "desayuno-05",
-        "titulo": "Desayuno 05",
-        "imagen": "./img/desayunos/05.jpg",
+        "titulo": "Ensalada de frutas",
+        "imagen": "../img/desayunos/05.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 11000
         },
         {
         "id": "desayuno-06",
-        "titulo": "Desayuno 06",
-        "imagen": "./img/desayunos/06.jpg",
+        "titulo": "Tortillas de trigo",
+        "imagen": "../img/desayunos/06.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 12500
         },
         {
         "id": "desayuno-07",
-        "titulo": "Desayuno 07",
-        "imagen": "./img/desayunos/07.jpg",
+        "titulo": "Parfait de yogur",
+        "imagen": "../img/desayunos/07.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 13200
         },
         {
         "id": "desayuno-08",
-        "titulo": "Desayuno 08",
-        "imagen": "./img/desayunos/08.jpg",
+        "titulo": "Smoothie bowl",
+        "imagen": "../img/desayunos/08.jpg",
         "categoria": {
             "nombre": "Desayunos",
             "id": "desayunos"
         },
-        "precio": 1000
+        "precio": 17000
         },
     //Almuerzos
         {
         "id": "almuerzo-01",
-        "titulo": "Almuerzo 01",
-        "imagen": "./img/almuerzos/01.jpg",
+        "titulo": "Fideos de arroz con rollitos de primavera",
+        "imagen": "../img/almuerzos/01.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 22000
         },
         {
         "id": "almuerzo-02",
-        "titulo": "Almuerzo 02",
-        "imagen": "./img/almuerzos/02.jpg",
+        "titulo": "Ensalada Cesar con pollo",
+        "imagen": "../img/almuerzos/02.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 18500
         },
         {
         "id": "almuerzo-03",
-        "titulo": "Almuerzo 03",
-        "imagen": "./img/almuerzos/03.jpg",
+        "titulo": "Lomo de cerdo",
+        "imagen": "../img/almuerzos/03.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 25300
         },
         {
         "id": "almuerzo-04",
-        "titulo": "Almuerzo 04",
-        "imagen": "./img/almuerzos/04.jpg",
+        "titulo": "Poke blowl",
+        "imagen": "../img/almuerzos/04.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 18500
         },
         {
         "id": "almuerzo-05",
-        "titulo": "Almuerzo 05",
-        "imagen": "./img/almuerzos/05.jpg",
+        "titulo": "Col curtida",
+        "imagen": "../img/almuerzos/05.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 20000
         },
         {
         "id": "almuerzo-06",
-        "titulo": "Almuerzo 06",
-        "imagen": "./img/almuerzos/06.jpg",
+        "titulo": "Plato de sopa",
+        "imagen": "../img/almuerzos/06.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 13000
         },
         {
         "id": "almuerzo-07",
-        "titulo": "Almuerzo 07",
-        "imagen": "./img/almuerzos/07.jpg",
+        "titulo": "Sopa vietnamita",
+        "imagen": "../img/almuerzos/07.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 15200
         },
         {
         "id": "almuerzo-08",
-        "titulo": "Almuerzo 08",
-        "imagen": "./img/almuerzos/08.jpg",
+        "titulo": "poke bowl",
+        "imagen": "../img/almuerzos/08.jpg",
         "categoria": {
             "nombre": "Almuerzos",
             "id": "almuerzos"
         },
-        "precio": 1000
+        "precio": 12500
         },
     //Cenas
         {
         "id": "cena-01",
-        "titulo": "Cena 01",
-        "imagen": "./img/cenas/01.jpg",
+        "titulo": "Sopa de calabaza",
+        "imagen": "../img/cenas/01.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 14500
         },
         {
         "id": "cena-02",
-        "titulo": "Cena 02",
-        "imagen": "./img/cenas/02.jpg",
+        "titulo": "Snacks con huevo",
+        "imagen": "../img/cenas/02.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 13700
         },
         {
         "id": "cena-03",
-        "titulo": "Cena 03",
-        "imagen": "./img/cenas/03.jpg",
+        "titulo": "Sopa de tomate",
+        "imagen": "../img/cenas/03.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 13200
         },
         {
         "id": "cena-04",
-        "titulo": "Cena 04",
-        "imagen": "./img/cenas/04.jpg",
+        "titulo": "Esparragos",
+        "imagen": "../img/cenas/04.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 12800
         },
         {
         "id": "cena-05",
-        "titulo": "Cena 05",
-        "imagen": "./img/cenas/05.jpg",
+        "titulo": "Sushi",
+        "imagen": "../img/cenas/05.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 18000
         },
         {
         "id": "cena-06",
-        "titulo": "Cena 06",
-        "imagen": "./img/cenas/06.jpg",
+        "titulo": "espagueti",
+        "imagen": "../img/cenas/06.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 15000
         },
         {
         "id": "cena-07",
-        "titulo": "Cena 07",
-        "imagen": "./img/cenas/07.jpg",
+        "titulo": "Pad thai",
+        "imagen": "../img/cenas/07.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 17500
         },
         {
         "id": "cena-08",
-        "titulo": "Cena 08",
-        "imagen": "./img/cenas/08.jpg",
+        "titulo": "Ravioles",
+        "imagen": "../img/cenas/08.jpg",
         "categoria": {
             "nombre": "Cenas",
             "id": "cenas"
         },
-        "precio": 1000
+        "precio": 15300
         }
 ]
 
